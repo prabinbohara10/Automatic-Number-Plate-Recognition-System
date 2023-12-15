@@ -46,7 +46,3 @@ This repository contains the implementation of an Automatic Number Plate Recogni
 
 3. **Integration with External Systems:**
    - Explore options for integrating the ANPR system with external databases or security systems.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE), meaning you are free to use, modify, and distribute the code for personal or commercial purposes.
